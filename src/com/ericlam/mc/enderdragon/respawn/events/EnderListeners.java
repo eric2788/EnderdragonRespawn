@@ -119,6 +119,7 @@ public class EnderListeners implements Listener {
         Location loc = e.getBlock().getLocation();
         if (puts.contains(loc)) return;
         if (!ConfigManager.getWorlds().contains(loc.getWorld())) return;
+        if (new Location(loc.getWorld(),loc.getX(),loc.getY()-1,loc.getZ()).getBlock().getType() != Material.BEDROCK && loc.getBlock().getType() != Material.BEDROCK) return;
         EnderRestore restore = findFromWorld(loc.getWorld());
         if (restore == null) {
             restore = new EnderRestore(loc.getWorld());
