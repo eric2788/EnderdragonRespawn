@@ -1,0 +1,5 @@
+ender-worlds:
+  - world_the_end
+restore-hours: 4
+restore-instantly-after-restart: true
+bossbar-title: "終界龍 - HP: <health>"

@@ -1,0 +1,13 @@
+name: EnderDragonRespawn
+main: com.ericlam.mc.enderdragon.respawn.main.EnderDragonRespawn
+version: 1.0.0
+author: Hydranapse_
+api-version: 1.13
+commands:
+  er:
+    aliases: [enderdragonrespawn,edr]
+    description: instant respawn command
+permissions:
+  er.restart:
+    description: restart command
+    default: op
