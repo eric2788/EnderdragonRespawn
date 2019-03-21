@@ -1,5 +1,9 @@
+#生效的世界
 ender-worlds:
   - world_the_end
+#復活時間(小時)
 restore-hours: 4
+#是否開啟重啟後立刻復活
 restore-instantly-after-restart: true
+#bossbar 血量條標題顯示
 bossbar-title: "終界龍 - HP: <health>"
