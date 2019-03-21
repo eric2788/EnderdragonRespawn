@@ -11,7 +11,13 @@
 - 允許的世界列表(僅限終界)
 - 自定義的怪物血量條(僅限伺服器重啟後開始計算的第二只終界龍)
 
+## 權限
+- er.restart - 使用 /er 的實際指令，否則顯示插件資訊
+
+## 指令
+- /er - 查看幫助
+
 ## 演示
   [![插件演示](https://img.youtube.com/vi/j1tFzn7V7-8/0.jpg)](https://youtu.be/j1tFzn7V7-8)
 
-## [下載](http://gestyy.com/wNf0re)
+### [點此下載](http://gestyy.com/wNf0re)
