@@ -11,7 +11,7 @@
 - 允許的世界列表(僅限終界)
 - 自定義的怪物血量條(僅限伺服器重啟後開始計算的第二只終界龍)
 
-### [點此下載插件](http://gestyy.com/wNf0re)
+### [點此下載插件](http://www.mediafire.com/file/ynv720mopyrr18b/EnderDragonRespawn.jar/file)
 
 ## 權限
 - er.restart - 使用 /er 的實際指令，否則顯示插件資訊
