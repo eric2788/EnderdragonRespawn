@@ -12,7 +12,7 @@
 - 自定義的怪物血量條(僅限伺服器重啟後開始計算的第二只終界龍)
 
 ### 下載插件
-[點此下載插件](gestyy.com/wNf0re) | [Mirror](http://www.mediafire.com/file/ynv720mopyrr18b/EnderDragonRespawn.jar/file)
+[下載插件](http://corneey.com/wMiYVj) | [Mirror](https://drive.google.com/open?id=1oNFsjsq_0AcOD1CcXqjL6js5gPa5CtZK)
 
 ## 權限
 - er.restart - 使用 /er 的實際指令，否則顯示插件資訊
